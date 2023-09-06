@@ -39,4 +39,4 @@ git status
 ## Describe something that sets you apart from others:
 -learning new concepts 
 -getting deep knowledge of commands 
-
+-working hard to get best grades and aquire new computer knowledge
