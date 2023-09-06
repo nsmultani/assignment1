@@ -22,7 +22,7 @@ git status
 ## with version control, it is possible to:
 -Document history
 -Branching and merging 
--identity
+-Identity
 -Tracebility
 # Purpose of the following Git Commands
 - `git init`: creates the new git repository.
