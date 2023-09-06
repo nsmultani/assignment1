@@ -35,5 +35,8 @@ git status
 - `git branches`:allow to work on various parts of the projects without impacting on main branch.
 - `git merge`:combine multiple sequences pf the commits into one unified history
 - `git checkout`:navigate between the branches created by git branch
-
+# My Unique Touch 
+## Describe something that sets you apart from others:
+-learning new concepts 
+-getting deep knowledge of commands 
 
