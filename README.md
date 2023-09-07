@@ -8,10 +8,20 @@ GIT AND GITHUB BASCIS
 
 git status
 # First git status output:
-[output]
+git status 
+on main 
+your branch is up to date with 'origin/main'.
+changes to be committed: (use "git restore --staged .." to unstage) modified:README.md
 
 # Second git stauts output
-[output]
+git status 
+On main 
+Your branch is up to date with 'origin/main'.
+
+changes to be committed: (use "git restore --staged .." to unstage) modified:README.md
+
+Changes not staged for commit: (use "git add ..." to update what will be commited) (use "git restore .."to discard changes in working directory) modified: README.md
+
 # Purpose of the following commands :
 - `mkdir`:give the user to create directorier
 -`cd`: to change the present working directory in different operating system.
